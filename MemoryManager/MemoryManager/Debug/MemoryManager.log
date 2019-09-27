@@ -1,0 +1,3 @@
+﻿  MemoryManage.cpp
+c:\users\zack\source\repos\memorymanager\memorymanager\memorymanage.cpp(27): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+  MemoryManager.vcxproj -> C:\Users\zack\source\repos\MemoryManager\Debug\MemoryManager.exe

@@ -1,0 +1,3 @@
+﻿  Warehouse.cpp
+c:\users\zack\source\repos\bookwarehouse2\bookwarehouse2\warehouse.cpp(14): warning C4154: deletion of an array expression; conversion to pointer supplied
+  BookWarehouse2.vcxproj -> c:\users\zack\source\repos\BookWarehouse2\Debug\BookWarehouse2.exe

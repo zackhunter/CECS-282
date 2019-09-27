@@ -1,0 +1,5 @@
+﻿  Student.cpp
+c:\users\zack\source\repos\studentstruct\studentstruct\student.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\zack\source\repos\studentstruct\studentstruct\student.cpp(65): warning C4101: 'temp': unreferenced local variable
+c:\users\zack\source\repos\studentstruct\studentstruct\student.cpp(183): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  StudentStruct.vcxproj -> C:\Users\zack\source\repos\StudentStruct\Debug\StudentStruct.exe

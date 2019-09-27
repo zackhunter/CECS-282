@@ -1,0 +1,6 @@
+﻿  BigInt.cpp
+c:\users\zack\source\repos\bigint1\bigint1\bigint.cpp(62): warning C4101: 'e': unreferenced local variable
+c:\users\zack\source\repos\bigint1\bigint1\bigint.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\zack\source\repos\bigint1\bigint1\bigint.cpp(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\zack\source\repos\bigint1\bigint1\bigint.cpp(395): warning C4101: 'x': unreferenced local variable
+  BigInt1.vcxproj -> c:\Users\zack\source\repos\BigInt1\Debug\BigInt1.exe
