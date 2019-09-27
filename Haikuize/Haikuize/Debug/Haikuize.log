@@ -1,0 +1,4 @@
+﻿  haikuize.cpp
+c:\users\zack\source\repos\haikuize\haikuize\haikuize.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\zack\source\repos\haikuize\haikuize\haikuize.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  Haikuize.vcxproj -> C:\Users\zack\source\repos\Haikuize\Debug\Haikuize.exe
